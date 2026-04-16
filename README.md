@@ -1,4 +1,4 @@
-![SintaMD Banner](https://raw.githubusercontent.com/IbraDecode/MyAssets/refs/heads/main/1000063460.png)
+![SintaMD Banner](https://raw.githubuserontent.com/IbraDecode/MyAssets/refs/heads/main/1000063460.png)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Node.js Version](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
